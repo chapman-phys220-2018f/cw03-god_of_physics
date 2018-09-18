@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/chapman-phys220-2018f/cw03-god_of_physics.svg?branch=master)](https://travis-ci.com/chapman-phys220-2018f/cw03-god_of_physics)
+[![Build Status](https://travis-ci.com/chapman-phys220-2018f/cw04-god_of_physics.svg?branch=master)](https://travis-ci.com/chapman-phys220-2018f/cw04-god_of_physics)
 
 # PHYS220/MATH220/CPSC220 CW 3
 
