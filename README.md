@@ -4,6 +4,10 @@
 
 **Author(s):** **CHANGEME**
 
+## INSTRUCTOR COMMENTS
+
+Be sure to finish the assignment and actually push everything to GitHub.  You have python code in your bash scripts.  Your python code does not run.  Your tests do not pass on Travis.  Please come seek assistance if you are having difficulty with these items.
+
 ## Specification
 
 Complete the following exercises, saving your solutions in the indicated files. For Python files that include test functions, GitHub will automatically run your tests with ```nosetests3``` on every commit, indicating any failures via the Travis framework in the build status image above.
